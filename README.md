@@ -28,6 +28,8 @@ A study and portfolio project focused on implementing core gameplay mechanics.
 - Save and Load systems.
 - Blueprint gameplay logic.
 
+- **Link**: [https://github.com/EduardoTensor/Bar-Simulator]
+
 ### CombatFX-Lite
 A lightweight combat feedback system developed as a product-oriented portfolio project.
 
@@ -37,6 +39,8 @@ A lightweight combat feedback system developed as a product-oriented portfolio p
 - Health systems.
 - Blueprint Components.
 - Technical documentation and product organization.
+
+- **Link**: [https://github.com/EduardoTensor/CombatFX-Lite]
 
 ### Action Combat Kit
 A modular third-person action-combat system currently in development.
@@ -48,6 +52,8 @@ A modular third-person action-combat system currently in development.
 - Health and damage management.
 - Function-based Blueprint organization.
 - Component-oriented architecture.
+
+- **Link**: [https://github.com/EduardoTensor/ActionCombatKitDEVKIT]
 
 ## 💻 Technical Skills
 
