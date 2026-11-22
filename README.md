@@ -78,8 +78,9 @@ I'm always interested in opportunities to learn, contribute, collaborate, and tu
 
 ## 🌐 Connect With Me
 
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **GitHub:** [https://github.com/EduardoTensor?tab=repositories]
+- **LinkedIn:** [https://www.linkedin.com/feed/foryou/]
+- **Discord:** [eduardof.b.t]
 
 ---
 
